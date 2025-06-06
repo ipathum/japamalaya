@@ -1,6 +1,6 @@
-# japamalaya
+# japamalaya Sinhala
 
-A new Flutter project.
+A new Flutter app that Sinhala Rosary and other prayers.
 
 ## Getting Started
 
