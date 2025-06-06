@@ -2,6 +2,8 @@
 
 A new Flutter app that Sinhala Rosary and other prayers.
 
+ ![Android Permissions App Screenshots](screenshot/1.png) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
