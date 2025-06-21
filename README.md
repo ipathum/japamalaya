@@ -2,7 +2,7 @@
 
 A new Flutter app that Sinhala Rosary and other prayers.
 
- ![Android Permissions App Screenshots](screenshot/1.png) 
+ ![Android Permissions App Screenshots](screenshot/2.png) 
 
 ## Getting Started
 
